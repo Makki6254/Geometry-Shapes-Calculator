@@ -1,0 +1,2 @@
+# Geometry-Shapes-Calculator
+This C++ program defines two classes, Hexagon and Square, representing geometric shapes. Utilizing object-oriented principles, it calculates and displays the area, perimeter, and sum of angles for a Hexagon, as well as the area and perimeter for a Square. The user interacts with a menu, allowing them to choose the shape and view corresponding details. The code exemplifies encapsulation, constructor usage, and menu-driven interaction, making it a concise and readable demonstration of object-oriented programming in C++.
